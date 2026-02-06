@@ -1,0 +1,9 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="32" fill="#EEF2FF"/>
+  <rect x="80" y="80" width="480" height="260" rx="24" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="2"/>
+  <path d="M160 230h320" stroke="#1F6FEB" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="240" cy="190" r="28" fill="#1F6FEB"/>
+  <circle cx="320" cy="190" r="28" fill="#0EA5E9"/>
+  <circle cx="400" cy="190" r="28" fill="#22C55E"/>
+  <text x="320" y="290" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" fill="#475569">WestCam Placeholder</text>
+</svg>
